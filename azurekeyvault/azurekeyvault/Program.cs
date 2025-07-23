@@ -1,4 +1,4 @@
-﻿using Azurekeyvault.Services;
+﻿using AzureKeyVault.Services;
 
 internal class Program
 {
