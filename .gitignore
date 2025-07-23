@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/AzureFunctions/obj/Release/net8.0
+/AzureFunctions/obj/Debug/net8.0
+/AzureFunctions/obj
